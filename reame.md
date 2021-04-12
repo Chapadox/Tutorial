@@ -66,3 +66,29 @@
 <p>Isso fara que seu arquivos e diretorios sejam <strong>Rastreados</strong>. Agora vamos fazer um <strong>commit</strong>, Um commit server para fixarmos as mudanças no nosso projeto, ou seja se fizermos uma alteração que não deu certo podemos <strong>"voltar no tempo"</strong> e pegar um commit passado.</p>
 
 <p>Para fazermos um commit utilizamos</p>
+
+    git commit -m 'Digite uma mensagem :)'
+
+## Subindo seu Projeto
+
+<p>Agora que ja fizemos tudo isso vamos finalmente subir seu projeto no <strong>Github</strong></p>
+
+<p>Primeiro vamos criar um repositorio no Github e para isso vamos acessar o site do <a href="https://github.com">Github</a></p>
+
+<p>Ja no Github vamos clicar em <strong>"new"</strong> No lado esquerdo</p>
+
+![Github](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/olwn8btiixa0kfxy95jw.png)
+
+<p>Depois vamos colocar um nome para nosso repositorio e também vamos deixar ele publico.</p>
+
+
+![Github](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3dnu8mpdhx9fez345eie.png)
+
+<p>Depois vamos clicar em <strong>Create repository</strong></p> 
+
+<p>Agora vamos voltar no Git bash e vamos colocar os seguintes comandos em sequencia</p>
+
+    git remote add origin https://github.com/Username/nomedoRepositorio.git
+    git branch -M main
+    git push -u origin main
+
