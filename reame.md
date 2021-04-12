@@ -92,3 +92,17 @@
     git branch -M main
     git push -u origin main
 
+<p>Devera Aparecer uma mensagem semelhante a essa</p>
+
+![Github](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/jj70k86xw1u18h933if0.jpg)
+
+## Parabens 
+
+<p><strong>Parabens</strong> voce fez seu primeiro git push haha</p>
+
+<p>Agora seu projeto ja esta no Github e todos podem ver ele.</p>
+
+<br><br><h1>Obrigado por te acompanhado ate aqui.</h1>
+
+<p><strong><a href="https://github.com/Chapadox">Meu Github</a></strong></p>
+<p><strong><a href="https://www.linkedin.com/in/destr00/">Meu Linkedin</a></strong></p>
